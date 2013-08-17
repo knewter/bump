@@ -1,6 +1,6 @@
 {application, bump,
  [
-  {description, ""},
+  {description, "Simple 'bump' app to help me get used to testing in erlang."},
   {vsn, "1"},
   {registered, []},
   {applications, [

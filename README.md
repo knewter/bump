@@ -7,5 +7,5 @@ Just working on my unit testing chops in erlang.  Nothing to see here, move alon
 To run the tests:
 
 ```shell
-rebar test
+rebar eunit
 ```
