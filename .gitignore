@@ -4,4 +4,4 @@ deps
 *.beam
 *.plt
 erl_crash.dump
-ebar
+ebin
